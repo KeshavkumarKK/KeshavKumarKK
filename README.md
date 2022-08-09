@@ -57,6 +57,8 @@
 
 <br>
 
+![Nishant's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nishant3721&theme=react-dark&hide_border=true&area=true)
+
 ## Show some ❤️ by starring ⭐ some of the repositories!
 
 <br>

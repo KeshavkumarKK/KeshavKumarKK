@@ -48,12 +48,35 @@
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=nishant3721&show_icons=true&theme=dark" width="48%" align="right" >
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=nishant3721&show_icons=true&theme=dark" width="48%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nishant3721&theme=dark" width="48%" ><br>
 
-<div align="center">
+<div align="center"> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant3721&theme=radical&margin-w=15&margin-h=15&column=9" alt="nishant3721" /></a></p>
+<p>
+  <a align= "center" href="https://github.com/nishant3721">
+    <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant3721&theme=radical">
+  <!--  <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> -->
+  <img align="right"   src="https://github.com/nishant3721/nishant3721/blob/main/devcard.svg" width="400" alt="Siddhesh Bhupendra Kukade's Dev Card"/>
 
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=nishant3721&count_private=true&theme=radical&show_icons=true" />
+
+  </a>
+</p>
+<br/>
+
+<p>
+ <!--
+ <img  align="right"  height="250" width="400" src="https://cdn.dribbble.com/users/535615/screenshots/17649043/media/e4c03808fa04fa65e0c58d6d61f2fd54.png" />
+-->
+
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant3721&layout=compact&theme=radical&langs_count=5" />
+
+</p>
+
+<hr/>
 <br>
 
 ## Show some ❤️ by starring ⭐ some of the repositories!

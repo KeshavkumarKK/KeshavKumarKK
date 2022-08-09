@@ -57,7 +57,7 @@
 <p>
   <a align= "center" href="https://github.com/nishant3721">
     <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant3721&theme=radical">
-  <img align="right"   src="https://github.com/nishant3721/nishant3721/blob/main/devcard.svg" width="400" alt="Siddhesh Bhupendra Kukade's Dev Card"/>
+  <img align="right"   src="https://github.com/nishant3721/nishant3721/blob/main/devcard.svg" width="400" alt="Nishant Singh's Dev Card"/>
 
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=nishant3721&count_private=true&theme=radical&show_icons=true" />
 
@@ -66,7 +66,7 @@
 <br/>
 
 <p>
-<!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant3721&layout=compact&theme=radical&langs_count=5" /> -->
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant3721&layout=compact&theme=radical&langs_count=5" />
 
 </p>
 

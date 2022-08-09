@@ -19,33 +19,6 @@
 - ⚡ Fun fact: Jack of all trades , Master of None !
   <br />
 
-## 👨‍💻 Languages and Tools
-
-<div align="center">
-  
-<img src="https://github.com/nishant3721/nishant3721/blob/main/logos/java.png" height="60" width="60">
-<img src="https://github.com/nishant3721/nishant3721/blob/main/logos/c.png" height="60" width="60">
-<img src="https://github.com/nishant3721/nishant3721/blob/main/logos/c++.png" height="60" width="60">
-<img src="https://github.com/nishant3721/nishant3721/blob/main/logos/python.png" height="60" width="60">
-<img src="https://github.com/nishant3721/nishant3721/blob/main/logos/javascript.png" height="60" width="60">
-<img src="https://github.com/nishant3721/nishant3721/blob/main/logos/html.png" height="60" width="60">
-<img src="https://github.com/nishant3721/nishant3721/blob/main/logos/css.png" height="60" width="60">
-<img src="https://github.com/nishant3721/nishant3721/blob/main/logos/kotlin.png" height="60" width="60">
-
-<br>
-
-<img src="https://github.com/nishant3721/nishant3721/blob/main/logos/gcp.png" height="50" width="75">
-<img src="https://github.com/nishant3721/nishant3721/blob/main/logos/android.png" height="60" width="60">
-<img src="https://github.com/nishant3721/nishant3721/blob/main/logos/postman.png" height="50" width="70">
-<img src="https://github.com/nishant3721/nishant3721/blob/main/logos/sql.png" height="60" width="60">
-<img src="https://github.com/nishant3721/nishant3721/blob/main/logos/bootstrap.png" height="60" width="60">
-<img src="https://github.com/nishant3721/nishant3721/blob/main/logos/git.png" height="60" width="60">
-<img src="https://github.com/nishant3721/nishant3721/blob/main/logos/azure.png" height="55" width="75">
-
-</div>
-
-<br >
-
 ### 🍁 Tech Stack :
 
 

@@ -48,29 +48,13 @@
 
 ## 🏆 Github Status
 
-<!-- <img  src="https://github-readme-stats.vercel.app/api?username=nishant3721&show_icons=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=nishant3721&show_icons=true&theme=dark" width="48%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nishant3721&theme=dark" width="48%" ><br>
 
-<div align="center"> -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant3721&theme=radical&margin-w=15&margin-h=15&column=9" alt="nishant3721" /></a></p>
-<p>
-  <a align= "center" href="https://github.com/nishant3721">
-    <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant3721&theme=radical">
-  <img align="right"   src="https://github.com/nishant3721/nishant3721/blob/main/devcard.svg" width="400" alt="Nishant Singh's Dev Card"/>
+<div align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant3721&layout=compact&theme=dark&langs_count=5" />
 
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=nishant3721&count_private=true&theme=radical&show_icons=true" />
-
-  </a>
-</p>
-<br/>
-
-<p>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant3721&layout=compact&theme=radical&langs_count=5" />
-
-</p>
-
-<hr/>
 <br>
 
 ## Show some ❤️ by starring ⭐ some of the repositories!

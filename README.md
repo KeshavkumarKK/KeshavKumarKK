@@ -42,9 +42,9 @@
 
 <!-- ![Nishant's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nishant3721&theme=react-dark&hide_border=true&area=true) -->
 
-| 🎵 Now Playing                                                                                                                 |
+<!-- | 🎵 Now Playing                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> | -->
 
 ## Show some ❤️ by starring ⭐ some of the repositories!
 

@@ -42,6 +42,9 @@
 
 <!-- ![Nishant's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nishant3721&theme=react-dark&hide_border=true&area=true) -->
 
+|🏆 Trophies|
+<img alig src="https://github-profile-trophy.vercel.app/?username=nishant3721&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+
 <!-- | 🎵 Now Playing                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> | -->

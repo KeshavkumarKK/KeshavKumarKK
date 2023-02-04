@@ -42,9 +42,9 @@
 
 <!-- ![Nishant's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nishant3721&theme=react-dark&hide_border=true&area=true) -->
 
-|🏆 Trophies|
+<!-- |🏆 Trophies|
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant3721" alt="nishant3721" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant3721" alt="nishant3721" /></a> </p> -->
 
 <!-- | 🎵 Now Playing                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ |

@@ -7,7 +7,9 @@
  I'm passionate about 📊 Full-Stack Development. I like solving real-world problems and improving efficiency and performance. Strong Advocate for 📜 open source
 
 <!-- ![age](https://img.shields.io/badge/age-20-blue) -->
+
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+
 <!-- ![living](https://img.shields.io/badge/living-Bijnor,UP-3c9) -->
 
 <img width="50%" align="right" alt="Github Image" src= "https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -32,16 +34,16 @@
 
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=nishant3721&show_icons=true&theme=dark" width="48%" align="right" > -->
 
-
-<div align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nishant3721&theme=dark" width="48%" ><br>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant3721&layout=compact&theme=dark&langs_count=5" />
 
+<div align="center">
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img>
 <br>
 <br>
 
 <!-- ![Nishant's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nishant3721&theme=react-dark&hide_border=true&area=true) -->
-<details open><summary>Compact display</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img></details>
+<!-- <details open><summary>Compact display</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img></details> -->
 <!-- |🏆 Trophies|
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant3721" alt="nishant3721" /></a> </p> -->

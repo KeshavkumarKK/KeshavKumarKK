@@ -35,7 +35,7 @@
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=nishant3721&show_icons=true&theme=dark" width="48%" align="right" > -->
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nishant3721&theme=dark" width="50%" ><br>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant3721&layout=compact&theme=dark&langs_count=5" width="50%"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant3721&layout=compact&theme=dark&langs_count=5" width="30%"/>
 
 <div align="center">
 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img>

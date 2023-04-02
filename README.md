@@ -30,9 +30,8 @@
 
 ## 🏆 Github Status
 
-<!-- <img  src="https://github-readme-stats.vercel.app/api?username=nishant3721&show_icons=true&theme=dark" width="48%" align="right" > -->
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nishant3721&theme=dark" width="100%" ><br>
+<img  src="https://github-readme-stats.vercel.app/api?username=nishant3721&show_icons=true&theme=dark" width="48%" align="right" >
+<!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nishant3721&theme=dark" width="48%" ><br> -->
 
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant3721&layout=compact&theme=dark&langs_count=5" />

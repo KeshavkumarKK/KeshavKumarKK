@@ -4,17 +4,17 @@
 
 <h3 align="center">I'm an aspiring Full Stack Developer from India ❤</h3>
   
- I'm passionate about 📊 Full-Stack Development & DevOps Engineering. I like solving real-world problems and improving efficiency and performance. Strong Advocate for 📜 open source
+ I'm passionate about 📊 Full-Stack Development. I like solving real-world problems and improving efficiency and performance. Strong Advocate for 📜 open source
 
-![age](https://img.shields.io/badge/age-20-blue)
+<!-- ![age](https://img.shields.io/badge/age-20-blue) -->
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Bijnor,UP-3c9)
+<!-- ![living](https://img.shields.io/badge/living-Bijnor,UP-3c9) -->
 
 <img width="50%" align="right" alt="Github Image" src= "https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning Web Development and practising DSA.
-- 👯 I’m looking to collaborate on Basic Web Dev & Pair programming.
-- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/nishant-singh-362a70201/)
+- 👯 I’m looking to collaborate on Web Dev.
+- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/nishant3721/)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None !
   <br />
@@ -30,18 +30,18 @@
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=nishant3721&show_icons=true&theme=dark" width="48%" align="right" >
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=nishant3721&show_icons=true&theme=dark" width="48%" align="right" > -->
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nishant3721&theme=dark" width="48%" ><br>
 
 <div align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nishant3721&theme=dark" width="48%" ><br>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant3721&layout=compact&theme=dark&langs_count=5" />
 
 <br>
 <br>
 
 <!-- ![Nishant's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nishant3721&theme=react-dark&hide_border=true&area=true) -->
-
+<details open><summary>Compact display</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img></details>
 <!-- |🏆 Trophies|
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant3721" alt="nishant3721" /></a> </p> -->
@@ -54,7 +54,7 @@
 
 <br>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/nishant-singh-362a70201/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/nishant3721/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nishantsingh3721/?hl=en)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100048807066065)
 
